@@ -1,5 +1,40 @@
-a {
-color: black;
-font-family: 'Times New Roman', Times, serif;
-font-size: 14px;
+.nav-link {
+color: white;
+font-family: ;
+font-size: 20px;
 }
+body {
+    background-color: tan;
+}
+nav {
+    background-color: black;
+}
+.card{
+    background-color: black;
+    color: white;
+}
+.courgette{
+    font-family:courgette; 
+    font-size: 20px; 
+    letter-spacing: 3 px; 
+  }
+  .footer{
+      position: fixed;
+  }
+  h1{
+      font-family: courgette;
+      font-size: 30px;
+      letter-spacing: 2px;
+      color: white;
+  }
+  .aboutbox{
+    border-style: solid ; 
+    border-color: white; 
+    border-radius: 12px; 
+    color: white;
+    background-color: black;
+    font-family: courgette;
+  }
+  p {
+    font-family: courgette;
+  }
